@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salem Alalem
-- 👀 I’m interested in watch docummentry movies and walk
-- 🌱 I’m currently learning full stack developer
+- 👀 I love watching documentaries and walking
+- 🌱 I’m currently learning full-stack software development
 - 💞️ I’m looking to collaborate 
 
 <!---
