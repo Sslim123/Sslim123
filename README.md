@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salem Alalem
 - 👀 I love watching documentaries and walking
-- 🌱 I’m currently learning full-stack software development
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently Junior full-stack web development
+- 💞️ I’m looking for collaborate 
 
 <!---
 Sslim123/Sslim123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
